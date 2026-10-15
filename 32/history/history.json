@@ -1,1 +1,0 @@
-{"4b62303194c10acb1438a8f288667d61":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"91bb77d28a745444","reportUrl":"https://ajonczyk.github.io/E2EF/32/#testresult/91bb77d28a745444","status":"passed","statusDetails":"Smoke test passed successfully.","time":{"start":1792067673789,"stop":1792067674590,"duration":801}}]}}
