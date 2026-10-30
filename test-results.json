@@ -1,1 +1,1 @@
-{"byId":{"db5869083aba66c66dbf85394b56de97":{"id":"db5869083aba66c66dbf85394b56de97","name":"WebPage_Homepage_Test","duration":2856,"status":"passed","environment":"default"}}}
+{"byId":{"69b1800aa812d678c4da7355460314e5":{"id":"69b1800aa812d678c4da7355460314e5","name":"WebPage_Homepage_Test","duration":1340,"status":"broken","environment":"default"},"e725a90f424d7129409d3e569f8a65d4":{"id":"e725a90f424d7129409d3e569f8a65d4","name":"HomepageHasPlaywrightInTitleAndGetStartedLinkLinkingtoTheIntroPage","duration":1347,"status":"passed","environment":"default"}}}
