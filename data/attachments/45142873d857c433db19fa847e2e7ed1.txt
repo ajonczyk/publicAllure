@@ -1,0 +1,2 @@
+Browser: chromium
+Page URL at failure: http://127.0.0.1:5080/counter
